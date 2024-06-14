@@ -1,0 +1,19 @@
+{
+  "name": "rag-llamaindex",
+  "version": "1.0.0",
+  "description": "javascript rag web apps with llamaindex",
+  "main": "rag.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node rag.js"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  },
+  "type": "module",
+  "author": "Sankalp",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0"
+  }
+}
