@@ -10,7 +10,6 @@ dotenv.config({ path: '.env' });
 
 const keys = process.env; // read API keys from .env
 
-
 import { 
     Document, 
     VectorStoreIndex, 
